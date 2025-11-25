@@ -60,12 +60,12 @@ Utilizando a biblioteca `folium`, foi gerado um mapa interativo para visualizar 
 # Adding image links to the README content
 
 # Section 2. Vendas por Categoria
-readme_content = readme_content.replace(
+
     "## 2. Vendas por Categoria\n",
     "## 2. Vendas por Categoria\n\n" +
     "![Vendas por Categoria e Loja](vendas_por_categoria_e_loja.png)\n\n" +
     "![Participação das Categorias por Loja](participacao_categorias_por_loja.png)\n\n"
-)
+
 
 # Section 3. Média de Avaliação das Lojas
 readme_content = readme_content.replace(
