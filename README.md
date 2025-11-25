@@ -1,6 +1,5 @@
 # ONE9-Challenge-Alura-Store
 
-readme_content = """
 # Análise de Desempenho de Lojas
 
 Este notebook contém uma análise detalhada do desempenho de quatro lojas diferentes, utilizando dados de vendas, faturamento, avaliação de clientes e informações geográficas. O objetivo é extrair insights sobre o comportamento de vendas e identificar pontos fortes e fracos de cada loja.
@@ -8,6 +7,7 @@ Este notebook contém uma análise detalhada do desempenho de quatro lojas difer
 ## Sumário do Conteúdo:
 
 ### 1. Análise de Faturamento
+
 Nesta seção, calculamos o faturamento total de cada uma das quatro lojas. Os resultados mostraram:
 - Loja 1: R$ 1,534,509.12
 - Loja 2: R$ 1,488,459.06
@@ -63,8 +63,7 @@ Utilizando a biblioteca `folium`, foi gerado um mapa interativo para visualizar 
 
     "## 2. Vendas por Categoria\n",
     "## 2. Vendas por Categoria\n\n" +
-    "![Vendas por Categoria e Loja](vendas_por_categoria_e_loja.png)\n\n" +
-    "![Participação das Categorias por Loja](participacao_categorias_por_loja.png)\n\n"
+    "![Vendas por Categoria e Loja](vendas_por_categoria_e_loja.png)\n\n" 
 
 
 # Section 3. Média de Avaliação das Lojas
